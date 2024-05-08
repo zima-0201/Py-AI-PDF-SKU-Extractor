@@ -4,6 +4,10 @@
 
 The script facilitates the automated extraction of SKU numbers and their corresponding categories from PDF files, utilizing AI to interpret complex page layouts and text arrangements. This automation is aimed at refining the structure and user navigation experience on an e-commerce platform.
 
+## Video Preview
+
+[![Video Preview](https://github.com/zima-0201/Project-Images/blob/main/video%20preview/Py-AI-PDF-SKU-Extractor.jpeg)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-AI-PDF-SKU-Extractor.mp4)
+
 ## Features
 
 - **PDF Reading:** Utilizes PyMuPDF (fitz) to access and read PDF files.
